@@ -3,5 +3,5 @@
 - 🌱 I’m currently working on Web development and learning Artificial Intelligence
 - 📫 www.nashid.jesyfoods.com
 - 📸 www.instagram.com/na_szi
-- 💼 www.linkedin.com/in/nashid-muhammed-196022186/
+- 💼 www.linkedin.com/in/nashid-muhammed/
 
